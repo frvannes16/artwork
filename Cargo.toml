@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+   "mesh",
+   "cells",
+    "fills",
+    "tenthousand"
+]
+
+resolver = "2"
