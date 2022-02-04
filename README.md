@@ -14,7 +14,7 @@ While these sketches don't come close to the level of quality shown by some of t
 
 Without further ado, here are some pieces that my code and I produced:
 
-**Ten Thousand Triangle**
+**Ten Thousand Triangles**
 ![Ten Thousand Triangles](/examples/tenthousand-art.png)
 
 **Cells 1**
