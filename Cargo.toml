@@ -4,7 +4,7 @@ members = [
    "mesh",
    "cells",
     "fills",
-    "tenthousand"
+    "tenthousand",
 ]
 
 resolver = "2"
